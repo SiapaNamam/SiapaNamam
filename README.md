@@ -14,8 +14,6 @@ I am an individual with a keen interest in both programming and art, currently p
 <img align="left" alt="Tensor Flow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<br>
-<details>
  <summary><h3>Website</h3></summary>
  [website]: https://siapanamam.github.io
 
