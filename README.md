@@ -1,9 +1,9 @@
 # Aditya Ibnu Arif
 
 **`(Developer/Creator)`**
-
-i'm a developer who still study aout how wonderful coding is. so know i interested study about website and android. i make from planning and design how to solving what i want to build. so, let's make some friends!
-
+I am an individual with a keen interest in both programming and art, currently pursuing a degree in Software Engineering. My academic journey, coupled with independent learning, has equipped me with a diverse skill set that includes proficiency in Java, HTML, CSS, JavaScript, Python, Laravel, Flutter, Golang, and Artificial Intelligence. Among these, I have developed a particular affinity for Flutter and Golang. Demonstrating my commitment to the field, I have successfully crafted several applications, showcasing my proficiency in various programming languages and technologies, as evidenced by my repository. Whether working collaboratively within a team or independently, I approach each project with a dedicated and passionate mindset.
+<br>
+[website]: https://siapanamam.github.io
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -16,5 +16,5 @@ i'm a developer who still study aout how wonderful coding is. so know i interest
 <details>
  <summary><h3>Coding Journey</h3></summary>
 I am an individual with a keen interest in both programming and art, currently pursuing a degree in Software Engineering. My academic journey, coupled with independent learning, has equipped me with a diverse skill set that includes proficiency in Java, HTML, CSS, JavaScript, Python, Laravel, Flutter, Golang, and Artificial Intelligence. Among these, I have developed a particular affinity for Flutter and Golang. Demonstrating my commitment to the field, I have successfully crafted several applications, showcasing my proficiency in various programming languages and technologies, as evidenced by my repository. Whether working collaboratively within a team or independently, I approach each project with a dedicated and passionate mindset.
-[website]: https://siapanamam.github.io
+
 
